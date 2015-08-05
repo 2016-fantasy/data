@@ -90,15 +90,19 @@ promise(fs.readFile, `${__dirname}/../datasets/raw/fec/CandidateSummaryAction.cs
   .then(processRecords)
   // .then(showRecords)
   .then(writeRecords)
+  .then(() => console.log('done!'))
   .catch(error => console.error('Error', error.stack));
 
 function processRecords(records) {
   return  _.map(records, transformRecord);
 
   function transformRecord(record) {
-    return _.mapValues(
+    return _.omit(
+            _.mapValues(
               _.mapKeys(record, mapKeys),
-              mapValues);
+              mapValues
+            ),
+            (value, key) => value === null || value === undefined || value === '');
 
     function mapKeys(value, key) {
       return mapping[key] || key;
