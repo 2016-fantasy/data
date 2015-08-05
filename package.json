@@ -1,8 +1,8 @@
 {
-  "name": "base-node",
-  "version": "0.1.1",
-  "description": "Base Node.JS Development Environment",
-  "repository": "https://github.com/blakelapierre/base-node",
+  "name": "data",
+  "version": "0.0.1",
+  "description": "data ingestion; for now",
+  "repository": "https://github.com/2016-fantasy/data",
   "main": "index.js",
   "author": "Blake La Pierre",
   "license": "MIT",
@@ -29,5 +29,8 @@
     "traceur": "0.0.89",
     "traceur-runtime": "0.0.59",
     "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "csv-parse": "^0.1.4"
   }
 }
