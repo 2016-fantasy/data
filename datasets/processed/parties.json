@@ -1,0 +1,136 @@
+{
+  "parties": [
+    {
+      "name": "Independent",
+      "candidates": 141
+    },
+    {
+      "name": "Unknown",
+      "candidates": 22
+    },
+    {
+      "name": "Republican",
+      "candidates": 143
+    },
+    {
+      "name": "Write-In",
+      "candidates": 12
+    },
+    {
+      "name": "Other",
+      "candidates": 49
+    },
+    {
+      "name": "La Raza Unida",
+      "candidates": 1
+    },
+    {
+      "name": "Democrat",
+      "candidates": 88
+    },
+    {
+      "name": "None",
+      "candidates": 26
+    },
+    {
+      "name": "United",
+      "candidates": 1
+    },
+    {
+      "name": "Independent American",
+      "candidates": 2
+    },
+    {
+      "name": "Independence",
+      "candidates": 5
+    },
+    {
+      "name": "Unaffiliated",
+      "candidates": 13
+    },
+    {
+      "name": "American",
+      "candidates": 1
+    },
+    {
+      "name": "No Party Affiliation",
+      "candidates": 15
+    },
+    {
+      "name": "Green",
+      "candidates": 4
+    },
+    {
+      "name": "Federalist",
+      "candidates": 1
+    },
+    {
+      "name": "Constitution",
+      "candidates": 2
+    },
+    {
+      "name": "Libertarian",
+      "candidates": 13
+    },
+    {
+      "name": "Constitutional",
+      "candidates": 3
+    },
+    {
+      "name": "Reform",
+      "candidates": 1
+    },
+    {
+      "name": "Non-Party",
+      "candidates": 1
+    },
+    {
+      "name": "Conservative",
+      "candidates": 1
+    },
+    {
+      "name": "Democratic-Farmer-Labor",
+      "candidates": 1
+    },
+    {
+      "name": "Ace",
+      "candidates": 2
+    },
+    {
+      "name": "American Independent",
+      "candidates": 2
+    },
+    {
+      "name": "HEL",
+      "candidates": 2
+    },
+    {
+      "name": "AME",
+      "candidates": 1
+    },
+    {
+      "name": "A99",
+      "candidates": 1
+    },
+    {
+      "name": "Jewish/Christian National",
+      "candidates": 1
+    },
+    {
+      "name": "Communist",
+      "candidates": 1
+    },
+    {
+      "name": "undefined",
+      "candidates": 1
+    },
+    {
+      "name": "NBC",
+      "candidates": 2
+    },
+    {
+      "name": "Personal Choice",
+      "candidates": 1
+    }
+  ]
+}
