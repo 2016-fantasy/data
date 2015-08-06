@@ -140,6 +140,34 @@ function processCandidates() {
     })()
   };
 
+  const imageMap = {
+    'P00003392': 'hillary.jpg',
+    'P60006111': 'ted.jpg',
+    'P60007671': 'omalley.jpg',
+    'P60007168': 'bernie.jpg',
+    'P40003576': 'rand.jpg',
+    'P60006723': 'marco.jpg',
+    'P60008059': 'jeb.jpg',
+    'P60005915': 'benjamin.jpg',
+    'P60007697': 'lindsey.jpg',
+    'P80003478': 'huckabee.jpg',
+    'P60007242': 'carly.jpg',
+    'P20003281': 'perry.jpg',
+    'P20002721': 'santorum.jpg',
+    'P60008398': 'jindal.jpg',
+    'P60007572': 'pataki.jpg',
+    'P60005972': 'everson.jpg',
+    'P80001571': 'donald.jpg',
+    'P20002838': 'hill.jpg',
+    'P60008075': 'chafee.jpg',
+    'P60006814': 'lynch.jpg',
+    'P60006954': 'lynch.jpg',
+    'P60005345': 'sherman.jpg',
+    'P00004275': 'harley.jpg',
+    'P60005501': 'christensen.jpg',
+    'P20004065': 'wells.jpg'
+  };
+
   return promise(fs.readFile, `${__dirname}/../datasets/raw/fec/CandidateSummaryAction.csv`)
     .then(buffer => promise(csv.parse, buffer.toString(), {columns: true, relax: true}))
     .then(processRecords)
@@ -151,13 +179,19 @@ function processCandidates() {
     return  _.map(records, transformRecord);
 
     function transformRecord(record) {
-      return _.mapValues(
-              _.omit(
-                _.mapKeys(record, mapKeys),
-                (value, key) => value === null || value === undefined || value === ''
-              ),
-              mapValues
-            );
+      const transformed =  _.mapValues(
+        _.omit(
+          _.mapKeys(record, mapKeys),
+          (value, key) => value === null || value === undefined || value === ''
+        ),
+        mapValues
+      );
+
+      const image = imageMap[transformed.fecId];
+      console.log(transformed.fecId, image);
+      if (image) transformed.image = image;
+
+      return transformed;
 
       function mapKeys(value, key) {
         return (mapping[key] || {to: key}).to;

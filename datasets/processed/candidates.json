@@ -1383,7 +1383,8 @@
       "net_con": "$10,487.10",
       "net_ope_exp": "$9,655.02",
       "cov_sta_dat": "2015-01-01",
-      "cov_end_dat": "2015-07-08"
+      "cov_end_dat": "2015-07-08",
+      "image": "harley.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60002771&tabIndex=1",
@@ -1507,7 +1508,8 @@
       "net_ope_exp": "$3,078,087.31",
       "deb_owe_by_com": "$401,104.53",
       "cov_sta_dat": "2015-04-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "jeb.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60005766&tabIndex=1",
@@ -1783,7 +1785,8 @@
       "net_con": "$12,744,630.68",
       "net_ope_exp": "$6,356,282.12",
       "cov_sta_dat": "2015-01-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "benjamin.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P80000268&tabIndex=1",
@@ -1964,7 +1967,8 @@
       "net_ope_exp": "$63,653.79",
       "deb_owe_by_com": "$363,694.14",
       "cov_sta_dat": "2015-01-09",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "chafee.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60004561&tabIndex=1",
@@ -2086,7 +2090,8 @@
       "net_con": "$26,603.62",
       "net_ope_exp": "$29,228.65",
       "cov_sta_dat": "2015-01-01",
-      "cov_end_dat": "2015-03-31"
+      "cov_end_dat": "2015-03-31",
+      "image": "christensen.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60008521&tabIndex=1",
@@ -2240,7 +2245,8 @@
       "net_ope_exp": "$18,203,538.26",
       "deb_owe_by_com": "$574,147.67",
       "cov_sta_dat": "2015-04-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "hillary.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60009289&tabIndex=1",
@@ -2701,7 +2707,8 @@
       "net_ope_exp": "$6,140,267.63",
       "deb_owe_by_com": "$618,006.57",
       "cov_sta_dat": "2015-01-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "ted.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60007903&tabIndex=1",
@@ -3743,7 +3750,8 @@
       "net_ope_exp": "$400,083.90",
       "deb_owe_by_com": "$125,000.00",
       "cov_sta_dat": "2015-01-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "everson.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60007176&tabIndex=1",
@@ -3993,7 +4001,8 @@
       "net_con": "$1,699,127.35",
       "net_ope_exp": "$708,469.94",
       "cov_sta_dat": "2015-04-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "carly.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60009297&tabIndex=1",
@@ -4453,7 +4462,8 @@
       "net_con": "$2,173,151.15",
       "net_ope_exp": "$1,115,333.82",
       "cov_sta_dat": "2015-04-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "lindsey.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P80003544&tabIndex=1",
@@ -4966,7 +4976,8 @@
       "tot_dis": "$43,101.00",
       "cas_on_han_beg_of_per": "$705.00",
       "cov_sta_dat": "2015-01-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "hill.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60005758&tabIndex=1",
@@ -5278,7 +5289,8 @@
       "net_ope_exp": "$1,111,739.62",
       "deb_owe_by_com": "$11,334.25",
       "cov_sta_dat": "2015-04-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "huckabee.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P20002861&tabIndex=1",
@@ -5655,7 +5667,8 @@
       "net_con": "$578,758.51",
       "net_ope_exp": "$65,043.87",
       "cov_sta_dat": "2015-04-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "jindal.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60005048&tabIndex=1",
@@ -7065,7 +7078,8 @@
       "ind_ref": "$28,875.00",
       "tot_dis": "$28,875.00",
       "cov_sta_dat": "2015-05-01",
-      "cov_end_dat": "2015-06-15"
+      "cov_end_dat": "2015-06-15",
+      "image": "lynch.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60006954&tabIndex=1",
@@ -7095,7 +7109,8 @@
       "ind_ref": "$28,875.00",
       "tot_dis": "$28,875.00",
       "cov_sta_dat": "2015-05-01",
-      "cov_end_dat": "2015-06-15"
+      "cov_end_dat": "2015-06-15",
+      "image": "lynch.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60006749&tabIndex=1",
@@ -8602,7 +8617,8 @@
       "net_ope_exp": "$671,757.80",
       "deb_owe_by_com": "$141,560.23",
       "cov_sta_dat": "2015-04-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "omalley.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60007408&tabIndex=1",
@@ -8857,7 +8873,8 @@
       "net_con": "$255,794.96",
       "net_ope_exp": "$48,174.71",
       "cov_sta_dat": "2015-04-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "pataki.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60008695&tabIndex=1",
@@ -8921,7 +8938,8 @@
       "net_ope_exp": "$2,720,951.65",
       "deb_owe_by_com": "$716,442.99",
       "cov_sta_dat": "2015-04-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "rand.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60005519&tabIndex=1",
@@ -9184,7 +9202,8 @@
       "net_con": "$1,059,521.73",
       "net_ope_exp": "$631,282.58",
       "cov_sta_dat": "2015-01-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "perry.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60005634&tabIndex=1",
@@ -9944,7 +9963,8 @@
       "net_con": "$15,980,278.63",
       "net_ope_exp": "$9,046,611.62",
       "cov_sta_dat": "2015-01-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "marco.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P20002051&tabIndex=1",
@@ -10093,7 +10113,8 @@
       "net_con": "$13,612,748.76",
       "net_ope_exp": "$2,952,884.10",
       "cov_sta_dat": "2015-04-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "bernie.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P20002721&tabIndex=1",
@@ -10132,7 +10153,8 @@
       "net_ope_exp": "$1,683,435.46",
       "deb_owe_by_com": "$573,373.64",
       "cov_sta_dat": "2015-01-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "santorum.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60008380&tabIndex=1",
@@ -10482,7 +10504,8 @@
       "tot_dis": "$14,168.00",
       "cas_on_han_clo_of_per": "$1,850.00",
       "cov_sta_dat": "2015-03-30",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "sherman.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60006590&tabIndex=1",
@@ -11770,7 +11793,8 @@
       "net_ope_exp": "$1,413,310.04",
       "deb_owe_by_com": "$1,804,747.23",
       "cov_sta_dat": "2015-04-02",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "donald.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P60007424&tabIndex=1",
@@ -12471,7 +12495,8 @@
       "cas_on_han_clo_of_per": "$485.00",
       "deb_owe_by_com": "$15,950.00",
       "cov_sta_dat": "2015-01-01",
-      "cov_end_dat": "2015-06-30"
+      "cov_end_dat": "2015-06-30",
+      "image": "wells.jpg"
     },
     {
       "url": "http://www.fec.gov/fecviewer/CandidateCommitteeDetail.do?candidateCommitteeId=P00003160&tabIndex=1",
