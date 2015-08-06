@@ -27,7 +27,7 @@ const mapping = {
   'par_com_con': {to: 'partyCommitteeContribution', name: 'Party Committee Contribution'},
   // 'oth_com_con': '?',
   // 'can_con': '?',
-  'tot_con': 'totalContributions'
+  'tot_con': {to:'totalContributions', name: 'Total Contributions'}
   // 'tra_fro_oth_aut_com': '?',
   // 'can_loa': '?',
   // 'oth_loa': '?',
