@@ -10,6 +10,8 @@ processCandidates()
   .catch(error => console.error('Error', error.stack));
 
 function processCandidates() {
+  let nextCandidateId = 0;
+
   // http://www.fec.gov/finance/disclosure/metadata/metadataforcandidatesummary.shtml
   // Provide a mapping from the FEC's column names to ours (the 'to' field)
   const mapping = {
@@ -188,8 +190,10 @@ function processCandidates() {
       );
 
       const image = imageMap[transformed.fecId];
-      console.log(transformed.fecId, image);
+
       if (image) transformed.image = image;
+
+      transformed.id = nextCandidateId++;
 
       return transformed;
 
